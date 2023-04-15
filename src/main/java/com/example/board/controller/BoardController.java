@@ -1,7 +1,7 @@
 package com.example.board.controller;
 
-import com.example.board.validation.GroupOrder;
 import org.springframework.validation.annotation.Validated;
+import com.example.board.validation.GroupOrder;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
